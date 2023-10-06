@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-def test_simple_math():
-    assert 2 + 2 ==4
-=======
 def test_simple_math_operation():
     assert 1000 + 1000 != 0
->>>>>>> coco
+
+def test_simple_math_operation():
+    assert 1000 + 1000 != 0
+
+def test_simple_math_operation():
+    assert 1000 + 1000 != 0
+
+    
