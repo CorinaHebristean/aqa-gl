@@ -1,0 +1,2 @@
+def test_simple_math_operation():
+    assert 10 + 100 != 0
